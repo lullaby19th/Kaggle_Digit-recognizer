@@ -1,1 +1,1 @@
-# Kaggle_Digit-recognizer
+# Kaggle_Digit-recognizer(MNIST)
